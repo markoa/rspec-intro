@@ -1,6 +1,7 @@
 # rspec-intro
 
-Source code used in a RSpec tutorial.
+Source code used in Semaphore's [RSpec
+tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-rspec).
 
 Here's how you can run it:
 
